@@ -1,1 +1,1 @@
-# furniture-weapon-integration
+Статус: оружие готово
