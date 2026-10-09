@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Диван", "type": "Мягкая мебель", "price": 50000, "available": true},
+  {"id": 2, "name": "Шкаф", "type": "Корпусная мебель", "price": 30000, "available": false},
+  {"id": 3, "name": "Стол", "type": "Корпусная мебель", "price": 15000, "available": true}
+]
